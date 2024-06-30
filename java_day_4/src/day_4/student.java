@@ -1,4 +1,4 @@
-package day_5;
+package day_4;
 
 public class student {
 	private int sid;

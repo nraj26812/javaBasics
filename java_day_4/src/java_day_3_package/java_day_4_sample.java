@@ -1,4 +1,4 @@
-package java_day_4_package;
+package java_day_3_package;
 
 public class java_day_4_sample{
 
