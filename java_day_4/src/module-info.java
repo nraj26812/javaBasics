@@ -4,5 +4,5 @@
 /**
  * 
  */
-module java_day_4 {
+module java_basics {
 }
