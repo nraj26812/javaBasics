@@ -1,6 +1,6 @@
-package java_day_3_package;
+package day_1;
 
-public class java_day_4_sample{
+public class Char_Demo{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
