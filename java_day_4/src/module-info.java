@@ -4,5 +4,5 @@
 /**
  * 
  */
-module java_basics {
+module java_Basics {
 }
