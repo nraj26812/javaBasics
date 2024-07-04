@@ -3,7 +3,7 @@ package day_1;
 public class Char_Demo{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 System.out.println("Hello world");
 //Assigned single character literal
       char ch='a';
