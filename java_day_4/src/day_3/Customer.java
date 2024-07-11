@@ -12,7 +12,8 @@ public class Customer {
 	} 
 	//Parameterized Constructor 
 	//use of this keyword 
-	public void Customer(String customerName, int customerId, String customerCity) { this(); //calling default constructor 
+	public void Customer(String customerName, int customerId, String customerCity) { 
+		//this(); //calling default constructor 
 	System.out.println("Parameterized Constructor"); 
 	this.customerName = customerName; 
 	this.customerId = customerId; 
